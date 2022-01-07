@@ -5,7 +5,7 @@
 #### 邮箱：zhongxianxu@xauat.edu.cn
 #### 地址：陕西省西安市碑林区雁塔路13号
 
-## 已发表论文
+## 发表论文
 - **Xu Z**, He N, He L, et al. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
 - **Xu Z**, He L, He N, et al. A quasi-differential type event-triggered model predictive control for perturbed continuous linear systems with constraints[J]. IET Control Theory & Applications, 2021, 15: 2334– 2343. （SCI，中科院2区，IF=3.527，本人为第一作者）
 - **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
