@@ -11,7 +11,7 @@
 - **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
 - **Xu Z**, He N, He L, et al. "A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis," 2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6, doi: 10.1109/ICCAIS52680.2021.9624612. （EI，本人为第一作者，获得**Best Student Paper Award**，即最佳学生论文奖）
 - He N, Qi L, **Xu Z**, et al. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
-- He N, Bai B, **Xu Z**Z. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
+- He N, Bai B, **Xu Z**. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
 
 ## 研究方向
 - 模型预测控制
@@ -46,6 +46,6 @@
       <p><b>地址：陕西省西安市碑林区雁塔路13号
     </td>
     <td width="25%">
-      <img src="/zhongxianxu.JPG" width="100%">      % 插入证件照代码
+      <img src="/zhongxianxu.JPG" width="100%"> 
     </td>
   </tr>
