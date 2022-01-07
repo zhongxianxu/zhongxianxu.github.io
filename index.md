@@ -1,3 +1,17 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>徐中显</h1>
+      <p><b>博士研究生</b></p>
+      <p><b>西安建筑科技大学</b></p>
+      <p><b>邮箱：zhongxianxu@xauat.edu.cn</b></p>
+      <p><b>地址：陕西省西安市碑林区雁塔路13号
+    </td>
+    <td width="25%">
+      <img src="/zhongxianxu.JPG" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+
 ## 个人信息
 #### 姓名：徐中显
 #### 学历：博士研究生
@@ -35,17 +49,3 @@
 - 2017.09至今 西安建筑科技大学 硕博连读
 - 2013.09-2017.06 山东科技大学 机械电子工程学院 工学学士
 - 2010.09-2013.06 山东省单县第一中学 高中
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>徐中显</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>西安建筑科技大学</b></p>
-      <p><b>邮箱：zhongxianxu@xauat.edu.cn</b></p>
-      <p><b>地址：陕西省西安市碑林区雁塔路13号
-    </td>
-    <td width="25%">
-      <img src="/zhongxianxu.JPG" width="100%"> 
-    </td>
-  </tr>
