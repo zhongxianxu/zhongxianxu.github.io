@@ -1,3 +1,5 @@
+![Image](https://raw.githubusercontent.com/zhongxianxu/zhongxianxu.github.io/main/zhongxianxu.JPG)
+
 ## 个人信息
 #### 姓名：徐中显
 #### 学历：博士研究生
