@@ -1,19 +1,3 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>徐中显</h1>
-      <p><b>博士研究生</b></p>
-      <p><b>西安建筑科技大学</b></p>
-      <p><b>邮箱：zhongxianxu@xauat.edu.cn</b></p>
-      <p><b>地址：陕西省西安市碑林区雁塔路13号
-    </td>
-    <td width="25%">
-      <img src="/zhongxianxu.JPG" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
-
-
 ## 个人信息
 #### 姓名：徐中显
 #### 学历：博士研究生
