@@ -6,9 +6,9 @@
 #### 地址：陕西省西安市碑林区雁塔路13号
 
 ## 研究方向
-- 模型预测控制
-- 事件触发控制
-- 网络安全控制
+- 模型预测控制 (model predictive control)
+- 事件触发控制 (event-triggered control)
+- 网络安全控制 (cyber security control)
 
 ## 发表论文
 - **Xu Z**, He N, He L, et al. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
