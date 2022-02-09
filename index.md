@@ -11,6 +11,7 @@
 - 网络安全控制 (cyber security control)
 
 ## 发表论文
+- He N, Du J, **Xu Z**. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34rd Chinese Control and Decision Conference (CCDC), 2022. （EI，本人为通讯作者）
 - He N, Bai B, **Xu Z**. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
 - **Xu Z**, He N, He L, et al. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
 - **Xu Z**, He N, He L, et al. "A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis," 2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6, doi: 10.1109/ICCAIS52680.2021.9624612. （EI，本人为第一作者，获得**Best Student Paper Award**，即最佳学生论文奖）
