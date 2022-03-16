@@ -21,6 +21,7 @@
 - **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者））
 
 ## 参与项目
+- 陕西省重点研发计划项目：牛羊健康养殖及防疫巡检机器人关键技术研究（No. 2022NY-094）  2022.01 至今
 - 国家自然科学基金：基于时域鲁棒性能的不确定性系统预测控制参数快速整定方法研究（No. 61903291）  2020.01 至今
 - 省部级科研项目：燃料电池汽车用超真空多层结构液氢瓶的设计与示范制（No. 2019TSLGY04-06）  2019.01 至今
 - 厅局级项目：面向视觉识别的高置信度轻量深度神经网络研究（No. 21JK0732）  2021.01 至今
