@@ -13,19 +13,19 @@
 ## 发表论文
 
 ### 期刊论文
-- **Xu Z\***, He L. A gradient-based event-driven MPC for nonlinear systems with additive disturbances using state-dependent thresholds[J]. IEEE Access, 2022. （SCI, 中科院2区，IF=3.367，本人为第一作者）
+- **Xu Z**, He L. A gradient-based event-driven MPC for nonlinear systems with additive disturbances using state-dependent thresholds[J]. IEEE Access, 2022. （SCI, 中科院2区，IF=3.367，本人为第一作者）
 - 贺宁，马凯，**徐中显**等. 欺骗攻击下弹性自触发模型预测控制[J], 控制理论与应用, 2022.（EI）
-- He N, Du J, **Xu Z**, et al. Event-Triggered MPC for Linear Systems with Bounded Disturbances: An Accumulated Error based Approach[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，中科院2区，IF=3.527，本人为通讯作者）
+- He N, Du J, **Xu Z\***, et al. Event-Triggered MPC for Linear Systems with Bounded Disturbances: An Accumulated Error based Approach[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，中科院2区，IF=3.527，本人为通讯作者）
 - **Xu Z**, He N, He L, et al. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
 - **Xu Z**, He L, He N, et al. A quasi-differential type event-triggered model predictive control for perturbed continuous linear systems with constraints[J]. IET Control Theory & Applications, 2021, 15: 2334–2343. （SCI，中科院2区，IF=3.527，本人为第一作者）
-- He N, Qi L, **Xu Z**, et al. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
+- He N, Qi L, **Xu Z\***, et al. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
 - **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
 
 ### 会议论文
 - **Xu Z**, He N, He L, et al. "A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis," 2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6, doi: 10.1109/ICCAIS52680.2021.9624612. （EI，本人为第一作者，获得**Best Student Paper Award**，即最佳学生论文奖）
 - He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022. (EI)
-- He N, Du J, **Xu Z**. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34rd Chinese Control and Decision Conference (CCDC), 2022. （EI，本人为通讯作者）
-- He N, Bai B, **Xu Z**. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
+- He N, Du J, **Xu Z\***. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34rd Chinese Control and Decision Conference (CCDC), 2022. （EI，本人为通讯作者）
+- He N, Bai B, **Xu Z\***. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
 
 
 ## 参与项目
