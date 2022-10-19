@@ -14,6 +14,7 @@
 ## 发表论文
 
 ### 期刊论文
+- He N, Li Y, Li H, **Xu Z**. Aperiodic Event-triggered Model Predictive Control for Perturbed LTI Systems: A PID based Approach[J]. Information Sciences, 2022. （SCI, 中科院1区, TOP期刊, IF=8.233）
 - He N, **Xu Z <sup>#,</sup>\***, Shen C. An error gradient and accumulation-type event-driven model predictive control with relative thresholds for perturbed nonlinear systems[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，中科院2区，IF=3.527，本人为共同一作、通讯作者）
 - **Xu Z**, He L. A gradient-based event-driven MPC for nonlinear systems with additive disturbances using state-dependent thresholds[J]. IEEE Access, 2022. （SCI, 中科院2区，IF=3.367，本人为第一作者）
 - 贺宁，马凯，**徐中显**等. 欺骗攻击下弹性自触发模型预测控制[J], 控制理论与应用, 2022.（EI）
@@ -28,6 +29,7 @@
 - He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022. (EI)
 - He N, Du J, **Xu Z\***. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34rd Chinese Control and Decision Conference (CCDC), 2022. （EI，本人为通讯作者）
 - He N, Bai B, **Xu Z\***. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
+- He N, Li Y, Xu Z. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022. （EI）
 
 
 ## 参与项目
