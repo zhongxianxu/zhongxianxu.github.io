@@ -31,7 +31,7 @@
 - He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022. (EI)
 - He N, Du J, **Xu Z\***. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34rd Chinese Control and Decision Conference (CCDC), 2022. （EI，本人为通讯作者）
 - He N, Bai B, **Xu Z\***. "A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems," 2021 5th International Symposium on Autonomous Systems (ISAS), 2021. （EI，本人为通讯作者）
-- He N, Li Y, Xu Z. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022. （EI）
+- He N, Li Y, **Xu Z\***. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022. （EI）
 
 
 ## 参与项目
@@ -44,7 +44,7 @@
 - 西安市科技计划项目：多功能智能化煤炭采样机关键技术研究（2017077CG/RC040）  2017.01 至 2018.12
 
 ## 教育经历
-- 2017.09至今 西安建筑科技大学 硕博连读
+- 2017.09-2022.12 西安建筑科技大学 机电工程学院 工学博士
 - 2013.09-2017.06 山东科技大学 机械电子工程学院 工学学士
 - 2010.09-2013.06 山东省单县第一中学 高中
 
