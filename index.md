@@ -1,7 +1,6 @@
 ## 个人信息
-#### 姓名：徐中显
+#### 姓名：徐中显 博士
 #### 籍贯：山东省单县
-#### 学历：博士研究生
 #### 学校：西安建筑科技大学
 #### 邮箱：zhongxianxu@xauat.edu.cn
 #### 地址：陕西省西安市碑林区雁塔路13号
@@ -23,6 +22,8 @@
 - **Xu Z**, He L, He N, et al. A quasi-differential type event-triggered model predictive control for perturbed continuous linear systems with constraints[J]. IET Control Theory & Applications, 2021, 15: 2334–2343. （SCI，中科院2区，IF=3.527，本人为第一作者）
 - He N, Qi L, **Xu Z\***, et al. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
 - **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
+- He N, Chen Q, **Xu Z\***, et al. A Quasi Quadratic Differential Event-Triggered MPC for Continuous Perturbed Nonlinear Systems with Constraints\[J]. International Journal of Control, Automation and Systems, 2023. （SCI, **中科院3区**, 本人为通讯作者）
+- He N, Bai B, **Xu Z\***. An Integral-Differential Combined Type Event-Triggered MPC for Perturbed Linear Systems\[J]. Asian Journal of Control, 2023. （SCI, **中科院3区**, 本人为通讯作者）
 
 ### 会议论文
 - **Xu Z**, He N, He L, et al. "A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis," 2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6, doi: 10.1109/ICCAIS52680.2021.9624612. （EI，本人为第一作者，获得**Best Student Paper Award**，即最佳学生论文奖）
