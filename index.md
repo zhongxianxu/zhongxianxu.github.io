@@ -8,22 +8,22 @@
 ## 研究方向
 - 模型预测控制 (model predictive control)
 - 事件触发控制 (event-triggered control)
-- 网络安全控制 (cyber security control)
 
 ## 发表论文
 
 ### 期刊论文
+- Li Y, **Xu Z\***, He L, *et al*. Model Predictive Control for Nonlinear Systems under Sample-and-Hold Control Structure: An Integral-Type Double Self Triggering Method[J]. Advanced Theory and Simulations, 2023. （SCI, **中科院3区**, 本人为通讯作者）
 - He N, Bai B, **Xu Z\***. An Integral-Differential Combined Type Event-Triggered MPC for Perturbed Linear Systems\[J]. Asian Journal of Control, 2023. （SCI, **中科院3区**, 本人为通讯作者）
-- He N, Chen Q, **Xu Z\***, et al. A Quasi Quadratic Differential Event-Triggered MPC for Continuous Perturbed Nonlinear Systems with Constraints\[J]. International Journal of Control, Automation and Systems, 2023. （SCI, **中科院3区**, 本人为通讯作者）
+- He N, Chen Q, **Xu Z\***, *et al*. A Quasi Quadratic Differential Event-Triggered MPC for Continuous Perturbed Nonlinear Systems with Constraints\[J]. International Journal of Control, Automation and Systems, 2023. （SCI, **中科院3区**, 本人为通讯作者）
 - He N, Li Y, Li H, **Xu Z**. Aperiodic Event-triggered Model Predictive Control for Perturbed LTI Systems: A PID based Approach[J]. Information Sciences, 2022. （SCI, 中科院1区, TOP期刊, IF=8.233）
 - He N, **Xu Z <sup>#,</sup>\***, Shen C. An error gradient and accumulation-type event-driven model predictive control with relative thresholds for perturbed nonlinear systems[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，中科院2区，IF=3.527，本人为共同一作、通讯作者）
 - **Xu Z**, He L. A gradient-based event-driven MPC for nonlinear systems with additive disturbances using state-dependent thresholds[J]. IEEE Access, 2022. （SCI, 中科院2区，IF=3.367，本人为第一作者）
 - 贺宁，马凯，**徐中显**等. 欺骗攻击下弹性自触发模型预测控制[J], 控制理论与应用, 2022.（EI）
-- He N, Du J, **Xu Z\***, et al. Event-Triggered MPC for Linear Systems with Bounded Disturbances: An Accumulated Error based Approach[J]. IET Control Theory & Applications, 2022, 16(8): 816-827. （SCI，中科院2区，IF=3.527，本人为通讯作者）
-- **Xu Z**, He N, He L, et al. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
-- **Xu Z**, He L, He N, et al. A quasi-differential type event-triggered model predictive control for perturbed continuous linear systems with constraints[J]. IET Control Theory & Applications, 2021, 15: 2334–2343. （SCI，中科院2区，IF=3.527，本人为第一作者）
-- He N, Qi L, **Xu Z\***, et al. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
-- **Xu Z**, He L, He N, et al. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
+- He N, Du J, **Xu Z\***, *et al*. Event-Triggered MPC for Linear Systems with Bounded Disturbances: An Accumulated Error based Approach[J]. IET Control Theory & Applications, 2022, 16(8): 816-827. （SCI，中科院2区，IF=3.527，本人为通讯作者）
+- **Xu Z**, He N, He L, *et al*. Event-Based MPC for Nonlinear Systems with Additive Disturbances: A Quasi-Differential Type Approach[J]. ISA Transactions, 2021. （SCI，中科院1区，TOP期刊，IF=5.468，本人为第一作者）
+- **Xu Z**, He L, He N, *et al*. A quasi-differential type event-triggered model predictive control for perturbed continuous linear systems with constraints[J]. IET Control Theory & Applications, 2021, 15: 2334–2343. （SCI，中科院2区，IF=3.527，本人为第一作者）
+- He N, Qi L, **Xu Z\***, *et al*. Event-Driven Model Predictive Controller for State Constrained Systems: An Input Signal Reconstruction Method[J]. IEEE Access, 2021, 9: 74209-74217. （SCI，中科院2区，IF=3.367，本人为通讯作者）
+- **Xu Z**, He L, He N, *et al*. Self-triggered model predictive control for perturbed underwater robot systems[J]. Mathematical Problems in Engineering, 2021, 2021. （SCI，中科院4区，IF=1.009，本人为第一作者）
 
 
 ### 会议论文
