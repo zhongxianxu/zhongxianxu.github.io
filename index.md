@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- He N, Chen S, **Xu Z\***, *et al*. A Differential Error Based Self-Triggered MPC with Adaptive Prediction Horizon for Discrete Systems[J]. Journal of Dynamic Systems, Measurement, and Control, 2023.
 - Li Y, **Xu Z\***, He L, *et al*. Model Predictive Control for Nonlinear Systems under Sample-and-Hold Control Structure: An Integral-Type Double Self Triggering Method[J]. Advanced Theory and Simulations, 2023. （SCI, **中科院3区**, 本人为通讯作者）
 - He N, Bai B, **Xu Z\***. An Integral-Differential Combined Type Event-Triggered MPC for Perturbed Linear Systems\[J]. Asian Journal of Control, 2023. （SCI, **中科院3区**, 本人为通讯作者）
 - He N, Chen Q, **Xu Z\***, *et al*. A Quasi Quadratic Differential Event-Triggered MPC for Continuous Perturbed Nonlinear Systems with Constraints\[J]. International Journal of Control, Automation and Systems, 2023. （SCI, **中科院3区**, 本人为通讯作者）
