@@ -12,6 +12,8 @@
 ## 发表论文
 
 ### 期刊论文
+- He N, Du J, Cheng F, **Xu Z**. Robust distributed MPC for disturbed nonlinear multi-agent systems based on a mixed differential-integral event-triggered mechanism[J]. Journal of King Saud University - Computer and Information Sciences, 2024. （SCI，**中科院2区**）
+- He N, Du J, **Xu Z\***, *et al*. Robust Model Predictive Control for Perturbed Nonlinear Systems via An Error Differential-Integral based Event-triggered Approach[J]. International Journal of Systems Science, 2024. （SCI, **中科院4区**, 本人为通讯作者）
 - He N, Chen S, **Xu Z\***, *et al*. A Differential Error Based Self-Triggered MPC with Adaptive Prediction Horizon for Discrete Systems[J]. Journal of Dynamic Systems, Measurement, and Control, 2023.（SCI, **中科院4区**, 本人为通讯作者）
 - Li Y, **Xu Z\***, He L, *et al*. Model Predictive Control for Nonlinear Systems under Sample-and-Hold Control Structure: An Integral-Type Double Self Triggering Method[J]. Advanced Theory and Simulations, 2023, 2300324. （SCI, **中科院3区**, 本人为通讯作者）
 - He N, Bai B, **Xu Z\***. An Integral-Differential Combined Type Event-Triggered MPC for Perturbed Linear Systems\[J]. Asian Journal of Control, 2023. （SCI, **中科院3区**, 本人为通讯作者）
