@@ -30,6 +30,7 @@
 
 
 ### 会议论文
+- **Xu Z**, Tian D, Yan F. A quasi-differential type event-triggered MPC for non-holonomic robots with coupled constraints and bounded disturbances[C]//2023 IEEE 2nd Industrial Electronics Society Annual On-Line Conference (ONCON). 2023: 1-6.
 - **Xu Z**, He N, He L, Li Y. "A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis," 2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6, doi: 10.1109/ICCAIS52680.2021.9624612. （EI，第一作者，获得**Best Student Paper Award**，即最佳学生论文奖）
 - He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022. (EI)
 - He N, Du J, **Xu Z\***. "Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism," 2022 34th Chinese Control and Decision Conference (CCDC), 2022. （EI，通讯作者）
