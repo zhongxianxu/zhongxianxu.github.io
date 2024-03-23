@@ -39,8 +39,11 @@
 - He N, Li Y, **Xu Z\***. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022. （EI）
 
 ## 项目
+
+### 主持
 - 陕西省自然科学基础研究计划：2024JC-YBQN-0703  2024.01 至 2025.12
-### 参与项目
+
+### 参与
 - 国家自然科学基金：基于时域鲁棒性能的不确定性系统预测控制参数快速整定方法研究（No. 61903291）  2020.01 至 2022.12
 - 陕西省千人青年计划项目：智能建筑建模与控制（No. YJ0147）  2018.05 至今
 - 陕西省重点研发计划项目：牛羊健康养殖及防疫巡检机器人关键技术研究（No. 2022NY-094）  2022.01 至今
