@@ -22,6 +22,7 @@
 ## 发表论文
 
 ### 期刊论文
+- 田东源,杜嘉伟,徐中显,贺利乐,贺宁.轮式机器人系统双通道信号传输事件触发模型预测控制[J/OL].机械科学与技术:1-8[2024-04-01].（通讯作者）
 - **Xu Z**, Tian D, He N. Model predictive control for non-holonomic robots with disturbances: A quasi-differential type event-driven method[J]. Journal of King Saud University - Computer and Information Sciences, 2024. （SCI，**中科院2区**）
 - He N, Du J, Cheng F, **Xu Z**. Robust distributed MPC for disturbed nonlinear multi-agent systems based on a mixed differential-integral event-triggered mechanism[J]. Journal of King Saud University - Computer and Information Sciences, 2024. （SCI，**中科院2区**）
 - He N, Du J, **Xu Z\***, Chen F. Robust Model Predictive Control for Perturbed Nonlinear Systems via An Error Differential-Integral based Event-triggered Approach[J]. International Journal of Systems Science, 2024. （SCI, **中科院4区**, 通讯作者）
