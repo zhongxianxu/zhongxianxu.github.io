@@ -31,7 +31,7 @@
 - [J11] He N, Bai B, **Xu Z\***, Li Y. An Integral-Differential Combined Type Event-Triggered MPC for Perturbed Linear Systems\[J]. Asian Journal of Control, 2023. （SCI, **中科院3区**, 通讯作者）
 - [J10] He N, Chen Q, **Xu Z\***, Bai B, Shen C. A Quasi Quadratic Differential Event-Triggered MPC for Continuous Perturbed Nonlinear Systems with Constraints\[J]. International Journal of Control, Automation and Systems, 2023. （SCI, **中科院3区**, 通讯作者）
 - [J9] He N, Li Y, Li H, **Xu Z**. Aperiodic Event-triggered Model Predictive Control for Perturbed LTI Systems: A PID based Approach[J]. Information Sciences, 2022. （SCI, **中科院1区**, TOP期刊）
-- [J8] He N <sup>#, **Xu Z <sup>#,</sup>\***, Shen C. An error gradient and accumulation-type event-driven model predictive control with relative thresholds for perturbed nonlinear systems[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，**中科院2区**，共同一作、通讯作者）
+- [J8] He N, **Xu Z <sup>#,</sup>\***, Shen C. An error gradient and accumulation-type event-driven model predictive control with relative thresholds for perturbed nonlinear systems[J]. IET Control Theory & Applications, 2022, 1-12. （SCI，**中科院2区**，共同一作、通讯作者）
 - [J7] **Xu Z**, He L. A gradient-based event-driven MPC for nonlinear systems with additive disturbances using state-dependent thresholds[J]. IEEE Access, 2022. （SCI, **中科院2区**）
 - [J6] 贺宁, 马凯, 沈超, **徐中显**, 钱成. 欺骗攻击下弹性自触发模型预测控制[J], 控制理论与应用, 2023, 40(05): 865-873.（EI）
 - [J5] He N, Du J, **Xu Z\***, Chen J. Event-Triggered MPC for Linear Systems with Bounded Disturbances: An Accumulated Error based Approach[J]. IET Control Theory & Applications, 2022, 16(8): 816-827. （SCI，**中科院2区**，通讯作者）
