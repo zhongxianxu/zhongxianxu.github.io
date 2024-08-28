@@ -42,6 +42,7 @@
 
 
 ### 会议论文
+- [C8] **Xu Z**, Chen S, Tian D, Yan F, Zhang L. Dynamic event-triggered MPC for non-holonomic robots with disturbances[C]//2024 IEEE 22nd International Conference on Industrial Informatics (INDIN). 2024: 1-6.
 - [C7] **Xu Z**, Tian D, Yan F. A quasi-differential type event-triggered MPC for non-holonomic robots with coupled constraints and bounded disturbances[C]//2023 IEEE 2nd Industrial Electronics Society Annual On-Line Conference (ONCON). 2023: 1-6. (EI)
 - [C6] He N, Li W, Zhou H, **Xu Z**. An Accumulated Error Based Self-Triggered MPC with Adaptive Prediction Horizon for Cyber Physical Systems[C]//2023 5th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI). 2023: 1-6. (EI)
 - [C5] He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022. (EI)
@@ -66,7 +67,7 @@
 - 西安市科技计划项目：多功能智能化煤炭采样机关键技术研究（2017077CG/RC040）  2017.01 至 2018.12
 
 ## 教育经历
-- 2017.09-2022.12 西安建筑科技大学 机电工程学院 工学博士
+- 2017.09-2023.01 西安建筑科技大学 机电工程学院 工学博士
 - 2013.09-2017.06 山东科技大学 机械电子工程学院 工学学士
 - 2010.09-2013.06 山东省单县第一中学 高中
 
