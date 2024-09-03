@@ -24,6 +24,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J18] 冯小菲,杜嘉伟,**徐中显\***,田东源,贺宁. 基于变时域策略的多智能体系统分布式事件触发MPC. 控制工程. 2024.（通讯作者）
 - [J17] 田东源,杜嘉伟,**徐中显\***,贺利乐,贺宁.轮式机器人系统双通道信号传输事件触发模型预测控制[J/OL].机械科学与技术:1-8[2024-04-01].（通讯作者）
 - [J16] **Xu Z**, Tian D, He N. Model predictive control for non-holonomic robots with disturbances: A quasi-differential type event-driven method[J]. Journal of King Saud University - Computer and Information Sciences, 2024. （SCI，**中科院2区**）
 - [J15] He N, Du J, Cheng F, **Xu Z**. Robust distributed MPC for disturbed nonlinear multi-agent systems based on a mixed differential-integral event-triggered mechanism[J]. Journal of King Saud University - Computer and Information Sciences, 2024. （SCI，**中科院2区**）
