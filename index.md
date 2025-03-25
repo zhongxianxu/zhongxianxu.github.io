@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J21] Liu Y, **Xu Z\***, He N, He L, Cheng F. A Novel Learning Based MPC Method via Basic-Residual Cooperative Model[J]. IEEE Access, 2025: 1-1.
 - [J20] **Xu Z**, He N, Du J, Cheng F. Distributed MPC with composite event-triggering mechanisms for nonlinear multi-agent systems[J]. Nonlinear Dynamics. 2024. （SCI，**中科院2区**）
 - [J19] Li Y, He N, **Xu Z\***, He L, Li H. Aperiodic MPC for nonlinear systems with additive disturbances and input delays: a prediction self-triggered approach[J]. European Journal of Control. 2024. （SCI，**中科院3区**）
 - [J18] 冯小菲,杜嘉伟,**徐中显\***,田东源,贺宁. 基于变时域策略的多智能体系统分布式事件触发MPC. 控制工程. 2024. （通讯作者）
@@ -71,6 +72,9 @@
 ### 2024-2025-1
 - 人工智能导论 新媒体2401-02
 - 智能机器人系统综合设计 机器人2102
+
+### 2024-2025-2
+- 机器人控制 智能2203-04
   
 ## 教育经历
 - 2017.09-2023.01 西安建筑科技大学 机电工程学院 工学博士
