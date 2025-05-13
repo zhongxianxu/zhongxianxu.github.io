@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J22] Chen J, He N, **Xu Z**, Dou M, He L. Design and implementation of a novel two-wheeled composite self-balancing robot for stationary operations in unknown terrain[J]. IEEE Access, 2025: 1-1.
 - [J21] Liu Y, **Xu Z\***, He N, He L, Cheng F. A Novel Learning Based MPC Method via Basic-Residual Cooperative Model[J]. IEEE Access, 2025: 1-1.
 - [J20] **Xu Z**, He N, Du J, Cheng F. Distributed MPC with composite event-triggering mechanisms for nonlinear multi-agent systems[J]. Nonlinear Dynamics. 2024. （SCI，**中科院2区**）
 - [J19] Li Y, He N, **Xu Z\***, He L, Li H. Aperiodic MPC for nonlinear systems with additive disturbances and input delays: a prediction self-triggered approach[J]. European Journal of Control. 2024. （SCI，**中科院3区**）
