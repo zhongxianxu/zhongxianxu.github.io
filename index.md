@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J26] Chu J, Yan F, **Xu Z**. Communication-constrained multi-UAV task allocation method for non-independent tasks[J]. Engineering Science and Technology, an International Journal, 2025, 70: 102166.（SCI，**中科院2区**）
 - [J25] 张迪,贺宁,**徐中显\***,田东源,冯小菲. 多智能体系统分布式双层自触发模型预测控制[J]. 控制工程. 2025. （通讯作者）
 - [J24] 贺利乐,田东源,**徐中显\***. 轮式机器人集群两阶段微分事件触发分布式MPC[J]. 信息与控制. 2025. （通讯作者）
 - [J23] 刘月笙,**徐中显\***,贺宁,贺利乐. 强化学习驱动的移动机器人模型预测控制参数整定方法[J]. 哈尔滨工业大学学报. 2025.（EI，通讯作者）
@@ -40,6 +41,7 @@
 
 
 ### 会议论文
+- [C9] Yan F, Wang F, Chu J, **Xu Z**, Zhang L, Zhou L. Heterogeneous Multi-agent Overlapping Coalition Formation Method Under Resource Constraints[C].//Proceedings of 4th 2024 International Conference on Autonomous Unmanned Systems (4th ICAUS 2024). 2025: 70-77. (EI)
 - [C8] **Xu Z**, Chen S, Tian D, Yan F, Zhang L. Dynamic event-triggered MPC for non-holonomic robots with disturbances[C]//2024 IEEE 22nd International Conference on Industrial Informatics (INDIN). 2024: 1-6.
 - [C7] **Xu Z**, Tian D, Yan F. A quasi-differential type event-triggered MPC for non-holonomic robots with coupled constraints and bounded disturbances[C]//2023 IEEE 2nd Industrial Electronics Society Annual On-Line Conference (ONCON). 2023: 1-6. (EI)
 - [C6] He N, Li W, Zhou H, **Xu Z**. An Accumulated Error Based Self-Triggered MPC with Adaptive Prediction Horizon for Cyber Physical Systems[C]//2023 5th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI). 2023: 762-767. (EI)
@@ -53,6 +55,7 @@
 ## 项目
 
 ### 主持
+- 陕西省教育厅自然科学一般专项项目: XXX   2025.09 至 2027.08
 - 陕西省自然科学基础研究计划：2024JC-YBQN-0703  2024.01 至 2025.12
 
 ### 参与
@@ -79,6 +82,10 @@
 
 ### 2024-2025-2
 - 机器人控制 智能2203-04
+
+### 2025-2026-1
+- 人工智能导论 新媒体2501-02
+- 智能机器人系统综合设计 机器人2202
   
 ## 教育经历
 - 2017.09-2023.01 西安建筑科技大学 机电工程学院 工学博士
