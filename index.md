@@ -12,6 +12,9 @@
 ## 发表论文
 
 ### 期刊论文
+- [J25] 张迪,贺宁,**徐中显\***,田东源,冯小菲. 多智能体系统分布式双层自触发模型预测控制[J]. 控制工程. 2025. （通讯作者）
+- [J24] 贺利乐,田东源,**徐中显\***. 轮式机器人集群两阶段微分事件触发分布式MPC[J]. 信息与控制. 2025. （通讯作者）
+- [J23] 刘月笙,**徐中显\***,贺宁,贺利乐. 强化学习驱动的移动机器人模型预测控制参数整定方法[J]. 哈尔滨工业大学学报. 2025.（EI，通讯作者）
 - [J22] Chen J, He N, **Xu Z**, Dou M, He L. Design and implementation of a novel two-wheeled composite self-balancing robot for stationary operations in unknown terrain[J]. IEEE Access, 2025: 1-1.
 - [J21] Liu Y, **Xu Z\***, He N, He L, Cheng F. A Novel Learning Based MPC Method via Basic-Residual Cooperative Model[J]. IEEE Access, 2025: 1-1.
 - [J20] **Xu Z**, He N, Du J, Cheng F. Distributed MPC with composite event-triggering mechanisms for nonlinear multi-agent systems[J]. Nonlinear Dynamics. 2024. （SCI，**中科院2区**）
