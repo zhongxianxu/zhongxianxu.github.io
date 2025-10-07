@@ -53,6 +53,8 @@
 - [C2] He N, Li Y, **Xu Z\***. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022: 617-622. （EI）
 - [C1] **Xu Z**, He N, He L, Li Y. A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis[C]//2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6. （EI，获得**Best Student Paper Award**，即最佳学生论文奖）
 
+## 科研奖励
+- 陕西高等学校科学技术研究优秀成果 二等奖 （2/7）
 
 ## 项目
 
@@ -71,23 +73,21 @@
 
 ## 教授课程
 
-### 2023-2024-1
-- 人工智能导论 机器人2301-02 & 物理2301-02 
-- 系统建模与仿真实验 机器人2102
+### 人工智能导论
+- 2023-2024-1 机器人2301-02 & 物理2301-02
+- 2024-2025-1 新媒体2401-02
+- 2025-2026-1 新媒体2501-02
+  
+### 智能机器人系统综合设计
+- 2024-2025-1 机器人2102
+- 2025-2026-1 机器人2202
 
-### 2023-2024-2
-- 机器人控制 智能2103-04
-
-### 2024-2025-1
-- 人工智能导论 新媒体2401-02
-- 智能机器人系统综合设计 机器人2102
-
-### 2024-2025-2
-- 机器人控制 智能2203-04
-
-### 2025-2026-1
-- 人工智能导论 新媒体2501-02
-- 智能机器人系统综合设计 机器人2202
+### 机器人控制
+- 2023-2024-2 智能2103-04
+- 2024-2025-2 智能2203-04
+  
+### 系统建模与仿真实验2023-2024-1
+- 2023-2024-1 机器人2102
   
 ## 教育经历
 - 2017.09-2023.01 西安建筑科技大学 机电工程学院 工学博士
