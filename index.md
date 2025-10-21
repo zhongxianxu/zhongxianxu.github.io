@@ -12,7 +12,8 @@
 ## 发表论文
 
 ### 期刊论文
-- [J28] Liu Y, **Xu Z\***, He N, He L, Li R, Gao F. Data-Driven Multi-Model Predictive Control for Nonlinear Systems Under Cyber Attacks[J]. Neurocomputing, 2025. （SCI, **中科院2区**, 通讯作者）
+- [J29] Liu Y, **Xu Z\***, He N, He L, Cheng F. Self Attention Network-Based Auto-Tuning MPC for Mobile Robot Systems[J]. International Journal of Intelligent Robotics and Applications, 2025. （SCI, **中科院4区**, 通讯作者）
+- [J28] Liu Y, **Xu Z\***, He N\*, He L, Li R, Gao F. Data-Driven Multi-Model Predictive Control for Nonlinear Systems Under Cyber Attacks[J]. Neurocomputing, 2025. （SCI, **中科院2区**, 通讯作者）
 - [J27] He N, Feng X, **Xu Z\***, Tian D, Cheng F, Li H. Event-triggered distributed MPC for cyber-physical systems: An adaptive dual-horizon mechanism[J]. IEEE Transactions on Automation Science and Engineering, 2025: 1-1.（SCI, **中科院2区**, 通讯作者）
 - [J26] Chu J, Yan F, **Xu Z**. Communication-constrained multi-UAV task allocation method for non-independent tasks[J]. Engineering Science and Technology, an International Journal, 2025, 70: 102166.（SCI, **中科院2区**）
 - [J25] 张迪, 贺宁, **徐中显\***, 田东源, 冯小菲. 多智能体系统分布式双层自触发模型预测控制[J]. 控制工程. 2025. （通讯作者）
