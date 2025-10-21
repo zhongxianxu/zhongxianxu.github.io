@@ -51,7 +51,7 @@
 - [C5] He N, Li Y, **Xu Z**. Event-triggered MPC for LTI System with Disturbances via A PID-based Strategy[C]//2022 41st Chinese Control Conference (CCC), 2022: 2621-2626. (EI)
 - [C4] He N, Du J, **Xu Z\***. Event-Triggered MPC for Disturbed Nonlinear Systems via A Differential-Integral Mechanism[C]//2022 34th Chinese Control and Decision Conference (CCDC), 2022: 3733-3738. （EI, 通讯作者）
 - [C3] He N, Bai B, **Xu Z\***. A Quasi Integral-Differential Type Event-Triggered MPC for Linear Systems[C]//2021 5th International Symposium on Autonomous Systems (ISAS), 2022: 1-6. （EI, 通讯作者）
-- [C2] He N, Li Y, **Xu Z\***. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022: 617-622. （EI）
+- [C2] He N, Li Y, **Xu Z**. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022: 617-622. （EI）
 - [C1] **Xu Z**, He N, He L, Li Y. A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis[C]//2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6. （EI, 获得**Best Student Paper Award**, 即最佳学生论文奖）
 
 ## 科研奖励
