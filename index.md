@@ -54,8 +54,11 @@
 - [C2] He N, Li Y, **Xu Z**. Proportion-Integration-Differentiation based Aperiodic Model Predictive Control for Constrained Nonlinear Systems[C]//2022 Chinese Automation Congress (CAC), 2022: 617-622. （EI）
 - [C1] **Xu Z**, He N, He L, Li Y. A Gradient-based Event-Triggered MPC for Perturbed Linear Systems: Control Performance and Safety Analysis[C]//2021 International Conference on Control, Automation and Information Sciences (ICCAIS), 2021, pp. 1-6. （EI, 获得**Best Student Paper Award**, 即最佳学生论文奖）
 
-## 科研奖励
-- 陕西高等学校科学技术研究优秀成果 二等奖 （2/7）
+## 奖励
+- 2025年7月，陕西高等学校科学技术研究优秀成果 二等奖 （2/7）
+  
+- 2025年4月，西安邮电大学第五届电子信息类专业青年教师授课竞赛 三等奖
+- 2025年9月，第九届全国高等学校电子信息类专业青年教师授课竞赛 三等奖
 
 ## 项目
 
