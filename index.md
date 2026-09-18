@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J30] Ren J, Du J, Wang Q, Huang Z, Xu B, **Xu Z**. Robust Docking Control for Probe-and-Drogue Refueling System with Input Delay and Disturbances[J]. International Journal of Control, Automation, and Systems, 2026, 24(9): 2500-2512.（SCI, **中科院3区**）
 - [J29] Liu Y, **Xu Z\***, He N, He L, Cheng F. Self Attention Network-Based Auto-Tuning MPC for Mobile Robot Systems[J]. International Journal of Intelligent Robotics and Applications, 2025. （SCI, **中科院4区**, 通讯作者）
 - [J28] Liu Y, **Xu Z\***, He N\*, He L, Li R, Gao F. Data-Driven Multi-Model Predictive Control for Nonlinear Systems Under Cyber Attacks[J]. Neurocomputing, 2025, 658: 131732. （SCI, **中科院2区**, 通讯作者）
 - [J27] He N, Feng X, **Xu Z\***, Tian D, Cheng F, Li H. Event-triggered distributed MPC for cyber-physical systems: An adaptive dual-horizon mechanism[J]. IEEE Transactions on Automation Science and Engineering, 2025, 22: 21948-21959.（SCI, **中科院2区**, 通讯作者）
@@ -44,6 +45,7 @@
 
 
 ### 会议论文
+- [C10] **Xu Z**, He N\*. Adaptive event-triggered distributed MPC with disturbance observer for input-affine systems[C]//2026 45th Chinese Control Conference (CCC), 2026. (EI)
 - [C9] Yan F, Wang F, Chu J, **Xu Z**, Zhang L, Zhou L. Heterogeneous Multi-agent Overlapping Coalition Formation Method Under Resource Constraints[C].//Proceedings of 4th 2024 International Conference on Autonomous Unmanned Systems (4th ICAUS 2024). 2025: 70-77. (EI)
 - [C8] **Xu Z**, Chen S, Tian D, Yan F, Zhang L. Dynamic event-triggered MPC for non-holonomic robots with disturbances[C]//2024 IEEE 22nd International Conference on Industrial Informatics (INDIN). 2024: 1-6.
 - [C7] **Xu Z**, Tian D, Yan F. A quasi-differential type event-triggered MPC for non-holonomic robots with coupled constraints and bounded disturbances[C]//2023 IEEE 2nd Industrial Electronics Society Annual On-Line Conference (ONCON). 2023: 1-6. (EI)
@@ -82,6 +84,7 @@
 - 2023-2024-1 机器人2301-02 & 物理2301-02
 - 2024-2025-1 新媒体2401-02
 - 2025-2026-1 新媒体2501-02
+- 2026-2027-1 新媒体2601-02
   
 ### 机器人控制
 - 2023-2024-2 智能2103-04
@@ -91,6 +94,7 @@
 ### 智能机器人系统综合设计
 - 2024-2025-1 机器人2102
 - 2025-2026-1 机器人2202
+- 2026-2027-1 机器人2302
   
 ### 系统建模与仿真实验
 - 2023-2024-1 机器人2102
