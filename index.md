@@ -12,6 +12,7 @@
 ## 发表论文
 
 ### 期刊论文
+- [J31] **Xu Z**, He N, Feng X. Adaptive Event-Triggered Distributed MPC with Disturbance Observer Co-Design for Multi-Agent Systems[J]. International Journal of Control, Automation, and System, 2026. （SCI, **中科院3区**）
 - [J30] Ren J, Du J, Wang Q, Huang Z, Xu B, **Xu Z**. Robust Docking Control for Probe-and-Drogue Refueling System with Input Delay and Disturbances[J]. International Journal of Control, Automation, and Systems, 2026, 24(9): 2500-2512.（SCI, **中科院3区**）
 - [J29] Liu Y, **Xu Z\***, He N, He L, Cheng F. Self Attention Network-Based Auto-Tuning MPC for Mobile Robot Systems[J]. International Journal of Intelligent Robotics and Applications, 2025. （SCI, **中科院4区**, 通讯作者）
 - [J28] Liu Y, **Xu Z\***, He N\*, He L, Li R, Gao F. Data-Driven Multi-Model Predictive Control for Nonlinear Systems Under Cyber Attacks[J]. Neurocomputing, 2025, 658: 131732. （SCI, **中科院2区**, 通讯作者）
