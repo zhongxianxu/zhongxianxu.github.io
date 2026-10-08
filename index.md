@@ -46,6 +46,7 @@
 
 
 ### 会议论文
+- [C11] Zhao N, He N, **Xu Z**. Measurement-Updated Mixed-Threshold Triggered Distributed Model Predictive Control for Multi-Agent Systems[C]//The 8th International Conference on Industrial Artificial Intelligence (IAI 2026), 2026. (EI, 通讯作者)
 - [C10] **Xu Z**, He N\*. Adaptive event-triggered distributed MPC with disturbance observer for input-affine systems[C]//2026 45th Chinese Control Conference (CCC), 2026. (EI)
 - [C9] Yan F, Wang F, Chu J, **Xu Z**, Zhang L, Zhou L. Heterogeneous Multi-agent Overlapping Coalition Formation Method Under Resource Constraints[C].//Proceedings of 4th 2024 International Conference on Autonomous Unmanned Systems (4th ICAUS 2024). 2025: 70-77. (EI)
 - [C8] **Xu Z**, Chen S, Tian D, Yan F, Zhang L. Dynamic event-triggered MPC for non-holonomic robots with disturbances[C]//2024 IEEE 22nd International Conference on Industrial Informatics (INDIN). 2024: 1-6.
