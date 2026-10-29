@@ -23,11 +23,11 @@
 - [J23] 刘月笙, **徐中显\***, 贺宁, 贺利乐. 强化学习驱动的移动机器人模型预测控制参数整定方法[J]. 哈尔滨工业大学学报. 2025.（EI, 通讯作者）
 - [J22] Chen J, He N, **Xu Z**, Dou M, He L. Design and implementation of a novel two-wheeled composite self-balancing robot for stationary operations in unknown terrain[J]. IEEE Access, 2025, 13: 86032-86045.（SCI, **中科院4区**）
 - [J21] Liu Y, **Xu Z\***, He N, He L, Cheng F. A Novel Learning Based MPC Method via Basic-Residual Cooperative Model[J]. IEEE Access, 2025, 13: 54192-54203.（SCI, **中科院4区**, 通讯作者）
-- [J20] **Xu Z**, He N, Du J, Cheng F. Distributed MPC with composite event-triggering mechanisms for nonlinear multi-agent systems[J]. Nonlinear Dynamics, 2025, 113: 5571–5590. （SCI, **中科院2区**）
+- [J20] **Xu Z**, He N, Du J, Cheng F. Distributed MPC with composite event-triggering mechanisms for nonlinear multi-agent systems[J]. Nonlinear Dynamics, 2025, 113: 5571–5590. （SCI, **中科院2区, TOP期刊**）
 - [J19] Li Y, He N, **Xu Z\***, He L, Li H. Aperiodic MPC for nonlinear systems with additive disturbances and input delays: a prediction self-triggered approach[J]. European Journal of Control, 2024, 80: 101133. （SCI, **中科院3区**, 通讯作者）
 - [J18] 冯小菲, 杜嘉伟, **徐中显\***, 田东源, 贺宁. 基于变时域策略的多智能体系统分布式事件触发MPC. 控制工程. 2024. （通讯作者）
 - [J17] 田东源, 杜嘉伟, **徐中显\***, 贺利乐, 贺宁. 轮式机器人系统双通道信号传输事件触发模型预测控制[J/OL].机械科学与技术:1-8[2024-04-01].（通讯作者）
-- [J16] **Xu Z**, Tian D, He N. Model predictive control for non-holonomic robots with disturbances: A quasi-differential type event-driven method[J]. Journal of King Saud University - Computer and Information Sciences, 2024, 36(4): 102017. （SCI, **中科院2区, TOP期刊**）
+- [J16] **Xu Z**, Tian D, He N. Model predictive control for non-holonomic robots with disturbances: A quasi-differential type event-driven method[J]. Journal of King Saud University - Computer and Information Sciences, 2024, 36(4): 102017. （SCI, **中科院2区**）
 - [J15] He N, Du J, Cheng F, **Xu Z**. Robust distributed MPC for disturbed nonlinear multi-agent systems based on a mixed differential-integral event-triggered mechanism[J]. Journal of King Saud University - Computer and Information Sciences, 2024, 36(1): 101915. （SCI, **中科院2区**）
 - [J14] He N, Du J, **Xu Z\***, Chen F. Robust Model Predictive Control for Perturbed Nonlinear Systems via An Error Differential-Integral based Event-triggered Approach[J]. International Journal of Systems Science, 2024, 55(5), 858–875. （SCI, **中科院4区**, 通讯作者）
 - [J13] He N, Chen S, **Xu Z\***, Chen F, Li R, Gao F. A Differential Error Based Self-Triggered MPC with Adaptive Prediction Horizon for Discrete Systems[J]. Journal of Dynamic Systems, Measurement, and Control, 2023, 146(2): 021006.（SCI, **中科院4区**, 通讯作者）
